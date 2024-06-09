@@ -1,0 +1,9 @@
+sonar.verbose=true
+sonar.organization=valaxy01111
+sonar.projectKey=valaxy01111-key_twittertrend
+sonar.projectName=key_twittertrend
+sonar.language=java
+sonar.sourceEncoding=UTF-8
+sonar.sources=.
+sonar.java.binaries=target/class
+sonar.coverage.jacoco.xmlReportPaths=target/site/jacoco/jacoco.xml
